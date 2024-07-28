@@ -1,4 +1,4 @@
-# DaytimeRestSiteSelection
+# Daytime rest site selection of Japanese macaques in Yakushima
 
 # Overview
 This repository includes the R codes and dataset for the following paper:
