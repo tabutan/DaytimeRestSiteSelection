@@ -16,6 +16,6 @@ A simple folder structure.csv files is shown below:
 # Software & Package Versions
 
 
-# The Author od this README File
+# The Author of this README File
 
-- Yoshiyuki Tabuse
+- (Yoshiyuki Tabuse)[https://github.com/tabutan]
